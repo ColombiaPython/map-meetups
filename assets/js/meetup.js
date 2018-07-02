@@ -156,7 +156,7 @@ function meetups() {
       ]
     },
     'Bucaramanga': {
-      'coord': [7.119349, 7.119349],
+      'coord': [7.119349, -73.122742],
       'meetups': [
         {
           'icon': 'python',
